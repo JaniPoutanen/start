@@ -1,1 +1,1 @@
-sudo puppet apply --modulepath puppet/modules/ -e 'class {starting:}'
+sudo puppet apply --modulepath modules/ -e 'class {starting:}'
